@@ -1,0 +1,80 @@
+﻿/*
+//
+//===============================================================
+//VoiceForensics
+//https://github.com/utkarshp/VoiceForensics
+//===============================================================
+//Copyright 2014 VoiceForensics
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//http://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+*/
+
+
+
+
+.header {
+    border-top-style : double;
+    background-origin:padding-box;
+    border-bottom-style:double;
+    border-left-style:double;
+    border-right-style:double;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    width:auto;
+    height:100px;
+    background-color:lightseagreen;
+    font-family:'Franklin Gothic Book';
+    font-size:xx-large;
+}
+.centre {
+    border-top-style : double;
+    background-origin:padding-box;
+    border-bottom-style:double;
+    border-left-style:double;
+    border-right-style:double;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    font-variant:normal;
+    font-size:larger;
+    font-family:'Franklin Gothic';
+    font-size:medium;
+}
+
+.about {
+   font-family:Arial;
+   font-size:larger;
+   font-style:normal;
+   font-weight:bold;
+   background-color:lightgoldenrodyellow;
+}
+
+.Panel1 {
+   font-family:Arial;
+   font-size:larger;
+   font-style:normal;
+   font-weight:bold;
+   background-color:lightgoldenrodyellow;
+
+}
+.TextBox{
+   text-align:left;
+   display:inline;
+}
+
+.PlaceHolder1 {
+    border:dashed;
+}

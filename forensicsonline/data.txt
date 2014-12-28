@@ -1,0 +1,5 @@
+height,184
+weight,61
+bmi,13
+sex,0
+age,91
