@@ -1,0 +1,4 @@
+./normalizeAcrossFeatures.m 2 1 1 onlyFemale6000features.csv femalesnormalized.csv
+./splitFiles.m 2 femalesnormalized.csv splitFemales.csv splitFemalesNormalized
+./normalizeAcrossFeatures.m 2 1 1 onlyMale600features.csv malesnormalized.csv
+./splitFiles.m 2 malesnormalized.csv splitMales.csv splitMalesNormalized
